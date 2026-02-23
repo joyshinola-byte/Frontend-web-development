@@ -48,4 +48,4 @@ ppt link-https://www.canva.com/design/DAHCJWmBQCI/hpKIbxKSQvHjNjZiCkDhqg/edit?ut
 
 This project contains a Login Page and a Landing Page created using HTML, CSS, and JavaScript.
 When the user clicks the login button, a “Login Successful” alert message is displayed.
-After the alert, the user is redirected to the landing page successfully.
+After the alert the user is redirected to the landing page successfully. 
