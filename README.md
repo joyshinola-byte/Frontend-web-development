@@ -40,7 +40,7 @@ ppt link - https://www.canva.com/design/DAHAO9dW1MQ/mSbjbDOQC1XIlSNZD78Ogg/edit?
 
 Registration Form is used to collect basic details from users who want to create an account on a website. In this form, users enter their personal and contact information. The collected data helps the organization to identify and communicate with users easily.
 
-                                                                   Simple webpage with login
+                                                        Simple webpage with login
 
 demo link-https://joyshinola-byte.github.io/Frontend-web-development/
 
