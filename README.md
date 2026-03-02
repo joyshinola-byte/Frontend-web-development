@@ -54,3 +54,9 @@ After the alert the user is redirected to the landing page successfully.
                                                Navigation bar
 
 demo link-https://joyshinola-byte.github.io/Frontend-web-development/navigation%20bar.html
+
+ppt link-https://www.canva.com/design/DAHClo5FuPY/fV8NSJbn9c3LwPs08_HdjA/edit?utm_content=DAHClo5FuPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+A navigation bar is a menu placed at the top of a website that helps users move between different pages.
+It improves user experience by providing easy and organized access to important sections of the website
+and also with dropdown also added in the navigation bar 
