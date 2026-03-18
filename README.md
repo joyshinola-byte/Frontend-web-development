@@ -60,3 +60,14 @@ ppt link-https://www.canva.com/design/DAHClo5FuPY/fV8NSJbn9c3LwPs08_HdjA/edit?ut
 A navigation bar is a menu placed at the top of a website that helps users move between different pages.
 It improves user experience by providing easy and organized access to important sections of the website
 and also with dropdown also added in the navigation bar 
+
+
+                                            Hover effect and transition
+
+
+demo link -https://joyshinola-byte.github.io/Frontend-web-development/Lab%208%20Hover%20and%20transition%20html
+
+ppt link-https://www.canva.com/design/DAHEQy06QqI/hp0L2h8yedLBk_8QU-U6xw/edit?utm_content=DAHEQy06QqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Hover effect makes elements react when you move the mouse 
+Transitions make those changes smooth and visually pleasing
