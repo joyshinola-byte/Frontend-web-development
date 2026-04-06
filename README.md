@@ -71,3 +71,90 @@ ppt link-https://www.canva.com/design/DAHEQy06QqI/hp0L2h8yedLBk_8QU-U6xw/edit?ut
 
 Hover effect makes elements react when you move the mouse 
 Transitions make those changes smooth and visually pleasing
+
+                                              form validation
+
+demo link-https://joyshinola-byte.github.io/Frontend-web-development/lab%2010.html
+
+ppt link-https://drive.google.com/file/d/1-H28aP0g3o03gOW0y1p0uloHJdzgBjsl/view?usp=sharing
+
+Form validation checks whether inputs like email and password are correct.
+It ensures proper format and prevents wrong data submission.
+Form validation verifies user details like email and password.
+It helps maintain accuracy and avoids errors.
+It checks if email and password are entered correctly.
+This improves data quality and user experience.
+
+
+                                                calculator
+
+demo link-https://joyshinola-byte.github.io/Frontend-web-development/lab%2011%20calculator.html
+
+ppt link-https://drive.google.com/file/d/1gV2Cs-2_IXz7fhFvQ3Bacv28_9GT70aY/view?usp=sharing
+
+An HTML calculator is a simple web application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It uses HTML for structure, CSS for design, and JavaScript for functionality. This helps users perform quick calculations easily within a web page, making it interactive and user-friendly.
+
+
+                                                   digital clock
+
+demo link-https://joyshinola-byte.github.io/Frontend-web-development/lab%2012.html
+
+ppt link-https://drive.google.com/file/d/18b69A4XGSdoWahp94fO4y4zTbzsBwA46/view?usp=sharing
+
+A digital clock in HTML displays the current time in hours, minutes, and seconds using JavaScript. It updates automatically every second, providing real-time information. This project shows how web pages can be made interactive and dynamic using simple coding techniques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
